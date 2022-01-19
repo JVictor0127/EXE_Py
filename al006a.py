@@ -1,0 +1,7 @@
+# tipos primitivos e saidas de dados com .is(oque é?)
+n = (input('Digite um numero: '))
+print(n.isalpha())
+print(n.isnumeric())
+print(n.isalnum())
+print(n.isdecimal())
+print(n.islower())
